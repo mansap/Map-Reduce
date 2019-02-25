@@ -19,12 +19,7 @@
   *  Author for MapReduce class is: Dr.Trudy Howles.
   *  Reference : https://www.cs.rit.edu/~tmh/courses/720-2016/
   *
-  *  Author(s) for MapRedClient.java:
-  *  		  1. Abhishek Jaitley
-  *  		  2. Palash Gandhi
-  *  		  3. Mansa Pabbaraju
   *  	
-  *  Date: 8th December 2016
   *
 **/
 import java.io.BufferedReader;
